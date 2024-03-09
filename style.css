@@ -1,0 +1,19 @@
+
+header {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+a.navbar-brand {
+    letter-spacing: 3px;
+}
+#hero-section {
+    background-image: url(images/architect.jpg);
+    min-height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+}
+#about-section img {
+    filter: grayscale(70%);
+}
